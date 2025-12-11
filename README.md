@@ -12,8 +12,13 @@ Zusätzliche Verpflichtungen im Familienleben erfordern meine Aufmerksamkeit. Di
 
 ### Eine verantwortungsvolle Entscheidung
 
-Mir ist bewusst, dass viele von euch die Inhalte auf **dertechblog.de** schätzen. Die Entscheidung, die Website vorübergehend zu schließen, ist letztlich eine verantwortungsvolle Maßnahme, um sicherzustellen, dass ich qualitativ hochwertige Arbeit leisten kann, wenn ich wieder zurückkomme. In der nahen Zukunft plane ich, die Website neu zu beleben, sobald die Situation es zulässt.
+Mir ist bewusst, dass viele von euch die Inhalte auf **dertechblog.de** schätzen. Die Entscheidung, die Website vorübergehend zu schließen, ist letztlich eine verantwortungsvolle Maßnahme, um sicherzustellen, dass ich qualitativ hochwertige Arbeit leisten kann.
+
+### Kodi IPTV
+
+Die Dateien für IPTV findet ihr unter https://github.com/SebaldJ/dertechblog/tree/main/iptv
+
+### Fragen
 
 Wenn ihr Fragen oder Anliegen habt, bin ich jederzeit auf Mastodon erreichbar: https://social.tchncs.de/@sebaldj.
-
-Ich danke euch für euer Verständnis
+Ich danke euch für euer Verständnis.
