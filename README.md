@@ -1,6 +1,6 @@
-## Gründe für die vorübergehende Schließung von dertechblog.de
+## Gründe für die Schließung von dertechblog.de
 
-Die Entscheidung, die Website **dertechblog.de** vorübergehend nicht mehr zu betreiben, fällt mir nicht leicht. Doch aufgrund zahlreicher privater Projekte und familiärer Verpflichtungen bleibt mir einfach nicht genügend Zeit, um die Plattform mit der Aufmerksamkeit und dem Engagement zu führen, die sie verdient.
+Die Entscheidung, die Website **dertechblog.de** nicht mehr zu betreiben, fällt mir nicht leicht. Doch aufgrund zahlreicher privater Projekte und familiärer Verpflichtungen bleibt mir einfach nicht genügend Zeit, um die Plattform mit der Aufmerksamkeit und dem Engagement zu führen, die sie verdient.
 
 ### Zeitmangel durch private Projekte
 
